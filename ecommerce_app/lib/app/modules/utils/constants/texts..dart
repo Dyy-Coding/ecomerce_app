@@ -5,9 +5,9 @@ class UTexts {
   static const String onBoardingTitle2 = "Shop Everything You Love!";
   static const String onBoardingTitle3 = "Fast & Reliable Delivery";
 
-  static const String onBoardingSubTitle1 = "✨ Step up your style! Discover trendy outfits at prices you’ll love. Shop now and upgrade your wardrobe today!";
-  static const String onBoardingSubTitle2 = "⚡ Latest gadgets, unbeatable prices! From smartphones to accessories—get everything you need in one stop.";
-  static const String onBoardingSubTitle3 = "📦 Everything you need, delivered to your door. Shop smarter, shop with us!";
+  static const String onBoardingSubTitle1 = "Step up your style! Discover trendy outfits at prices you’ll love. Shop now and upgrade your wardrobe today!";
+  static const String onBoardingSubTitle2 = "Latest gadgets, unbeatable prices! From smartphones to accessories—get everything you need in one stop.";
+  static const String onBoardingSubTitle3 = " Everything you need, delivered to your door. Shop smarter, shop with us!";
 
   /// Login Title
   static const String loginTitle = "Shop smarter";
